@@ -188,11 +188,10 @@ module.exports = {
 
         // 评论配置，参考下方 [页面评论] 章节
         comments: {
-            platform: 'gitee',
-            owner: 'imyyliang',
+            owner: 'liangwei88',
             repo: 'blog',
-            clientId: '7269efd3781ab67219ffc7f6efa40793ba26503165f490821dd77b4574a458b1',
-            clientSecret: '35aa562d070fc274667f55c94c6a305ca0ba7023863201048ed1a1a687e4e589',
+            clientId: 'dd59260302618360a54b',
+            clientSecret: '826f34698c195d4754063dcd950864f0fb482865',
         },
 
         // 分页配置 (可选)
