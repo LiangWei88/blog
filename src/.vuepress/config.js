@@ -188,7 +188,8 @@ module.exports = {
 
         // 评论配置，参考下方 [页面评论] 章节
         comments: {
-            owner: 'liangwei88',
+            platform: 'github',
+            owner: 'LiangWei88',
             repo: 'blog',
             clientId: 'dd59260302618360a54b',
             clientSecret: '826f34698c195d4754063dcd950864f0fb482865',
