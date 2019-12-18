@@ -168,7 +168,7 @@ module.exports = {
             poweredByTheme: true,
 
             // 添加自定义 footer (支持 HTML)
-            custom: 'Copyright 2019-present <a href="http://liangwei.link" target="_blank">维维博客</a> | CC BY-NC-SA',
+            custom: 'Copyright 2019 <a href="http://liangwei.link" target="_blank">维维博客</a> | CC BY-NC-SA',
         },
 
         // 个人信息卡片相关设置 (可选)
