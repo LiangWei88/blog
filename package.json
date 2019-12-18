@@ -9,7 +9,7 @@
     "syncgit": "git pull && git push",
     "commitpost": "git add . && git commit -m '更新文章'",
     "commitbuild": "npm run build && git add . && git commit -m 'build'",
-    "send": "npm run syncgit && npm run commitpost && npm run commitbuild && git push"
+    "send": "npm run syncgit && npm run commitpost && npm run commitbuild && npm run syncgit"
   },
   "author": "LiangWei",
   "license": "SEE LICENSE IN LICENSE",
