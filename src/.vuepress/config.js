@@ -13,7 +13,7 @@ module.exports = {
     },
 
     // 使用的主题
-    theme: 'meteorlxy',
+    theme: 'meteorlxy-wei',
 
     // 主题配置
     themeConfig: {
@@ -50,6 +50,12 @@ module.exports = {
                 github: {
                     account: 'LiangWei88',
                     link: 'https://github.com/LiangWei88',
+                },
+
+                // Gitee 码云帐号和链接
+                gitee: {
+                    account: 'imyyliang',
+                    link: 'https://gitee.com/imyyliang',
                 },
 
                 // Facebook 帐号和链接
