@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src --dest docs"
+    "build": "vuepress build src --dest docs",
+    "commitpost": "git add . && git commit -m '更新文章'",
+    "commitbuild": "npm run build && git add . && git commit -m 'build'",
+    "send": "npm run commitpost && npm run commitbuild && git push"
   },
   "author": "LiangWei",
   "license": "SEE LICENSE IN LICENSE",
