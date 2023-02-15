@@ -6,7 +6,7 @@ tags:
   - vue2
   - javascript
   - npm
-date: 2023-02-15 11:42:07
+date: 2023-02-13 11:42:07
 title: vue-admin-work vue2版本运行报错解决办法
 ---
 在使用 vue-admin-work vue2版本时, 报 codemirror 错误.
